@@ -1,0 +1,15 @@
+/Users/nolenlawton/intro-dotnet/bin/Debug/net7.0/intro-dotnet
+/Users/nolenlawton/intro-dotnet/bin/Debug/net7.0/intro-dotnet.deps.json
+/Users/nolenlawton/intro-dotnet/bin/Debug/net7.0/intro-dotnet.runtimeconfig.json
+/Users/nolenlawton/intro-dotnet/bin/Debug/net7.0/intro-dotnet.dll
+/Users/nolenlawton/intro-dotnet/bin/Debug/net7.0/intro-dotnet.pdb
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/intro-dotnet.csproj.AssemblyReference.cache
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/intro-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/intro-dotnet.AssemblyInfoInputs.cache
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/intro-dotnet.AssemblyInfo.cs
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/intro-dotnet.csproj.CoreCompileInputs.cache
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/intro-dotnet.dll
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/refint/intro-dotnet.dll
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/intro-dotnet.pdb
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/intro-dotnet.genruntimeconfig.cache
+/Users/nolenlawton/intro-dotnet/obj/Debug/net7.0/ref/intro-dotnet.dll
