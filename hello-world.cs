@@ -64,3 +64,36 @@ listOfStrings.Add("Two");
 listOfStrings.Add("Three");
 
 Console.WriteLine("list of strings " + listOfStrings[0] + listOfStrings[1] + listOfStrings[2]);
+
+//  Make a class (object structure)
+class Player 
+{
+  string color = "red";
+  int shoes = 2;
+  bool strong = true;
+}
+
+//  Instantiate a class (make a new object)
+
+// class Game 
+// {
+//     Player player1 = new Player();
+// }
+
+//  Make a method (a function inside a class)
+
+// class House
+// {
+//     string WashDishes(){
+//         //  Return a value
+//         return "wash dishes";
+//     }
+
+
+// }
+
+//  Call from instance of class
+
+
+//  Make an array of objects
+//  Loop over array of objects
